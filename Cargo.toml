@@ -1,0 +1,8 @@
+[package]
+name = "astrum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+minstant = {version = "0.1.7"}
+once_cell = {version = "1.0"}
